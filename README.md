@@ -6,7 +6,7 @@
 
 - Documentação do [**k6**](https://k6.io/docs/getting-started/installation/)
 
-## :scroll: ## Execução
+## :scroll: Execução
 
 - Smoke test 
   -  ```npm run smoke-test```
