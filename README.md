@@ -2,7 +2,7 @@
 
 ![Smoke Test](https://miro.medium.com/v2/resize:fit:1200/1*7GJjohi1b8_-1de5IV5eog.png)
 
-> O k6-load-testing é um projeto de testes de performance utilizando o K6.
+> O k6-performance-test é um projeto de testes de performance utilizando o K6.
 
 ## :scroll: Instalação
 
