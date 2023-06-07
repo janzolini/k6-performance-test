@@ -1,0 +1,60 @@
+{
+    "crocodilos": [
+        {
+            "id": 1,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_birth": "2010-06-27",
+            "age": 12
+        },
+        {
+            "id": 2,
+            "name": "Ed",
+            "sex": "M",
+            "date_of_birth": "1995-02-27",
+            "age": 28
+        },
+        {
+            "id": 3,
+            "name": "Lyle the Crocodile",
+            "sex": "M",
+            "date_of_birth": "1985-03-03",
+            "age": 38
+        },
+        {
+            "id": 4,
+            "name": "Solomon",
+            "sex": "M",
+            "date_of_birth": "1993-12-25",
+            "age": 29
+        },
+        {
+            "id": 5,
+            "name": "The gharial",
+            "sex": "F",
+            "date_of_birth": "2004-06-28",
+            "age": 18
+        },
+        {
+            "id": 6,
+            "name": "Sang Buaya",
+            "sex": "F",
+            "date_of_birth": "2006-01-28",
+            "age": 17
+        },
+        {
+            "id": 7,
+            "name": "Sobek",
+            "sex": "F",
+            "date_of_birth": "1854-09-02",
+            "age": 168
+        },
+        {
+            "id": 8,
+            "name": "Curious George",
+            "sex": "M",
+            "date_of_birth": "1981-01-03",
+            "age": 42
+        }
+    ]
+}
