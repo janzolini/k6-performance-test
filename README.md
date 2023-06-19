@@ -28,7 +28,7 @@ A organização de pastas do projeto.
 ```
 root
 ├── reports
-│   ├── cucumber-report
+│   ├── teste_k6.html
 ├── src
 │   ├── data
 │   │   ├── csv
