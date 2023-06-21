@@ -21,7 +21,7 @@ export default class Login {
 
         check(response, {
             'Sucesso login': (resp) => resp.status === 200,
-            'Token gerado': (resp) => resp.json('acess') !== ''
+            'Token gerado': (resp) => resp.json('access') !== '',
         });
 
         sleep(1)

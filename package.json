@@ -8,7 +8,8 @@
     "load-test": "k6 run src/simulations/FullFlowLoad.test.js",
     "soak-test": "k6 run src/simulations/FullFlowSoak.test.js",
     "spike-test": "k6 run src/simulations/FullFlowSpike.test.js",
-    "stress-test": "k6 run src/simulations/FullFlowStress.test.js"
+    "stress-test": "k6 run src/simulations/FullFlowStress.test.js",
+    "stess-test-extract-csv": "k6 run --out csv=test_results.csv src/simulations/FullFlowStress.test.js"
   },
   "author": "Jonathan Teixeira Anzolini",
   "license": "MIT"
